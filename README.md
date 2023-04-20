@@ -2,6 +2,8 @@
 
 ![review](review.gif "Breakout")
 
+[DEMO](https://alekstar79.github.io/breakout)
+
 Game where you control a pad with the arrow keys to bounce a ball up to break bricks.  
 Based on [2D breakout game using pure JavaScript](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 
